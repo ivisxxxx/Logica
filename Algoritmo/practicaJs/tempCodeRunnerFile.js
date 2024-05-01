@@ -1,0 +1,1 @@
+ write(`Precio Venta: ${precioVenta} - Descuento:${descuento}: Precio Final=${precioFinal}`)
